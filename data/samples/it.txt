@@ -1,0 +1,9 @@
+La lingua italiana deriva dal latino parlato nella penisola. Si scrive con un alfabeto semplice, con vocali aperte e chiuse, e con suoni doppi come cc, tt, ll, nn. Parole cortissime tornano in continuazione: di, che, la, il, e, in, un, per, non. Anche desinenze come -zione, -mente, -are, -ato lasciano una traccia visibile nelle sequenze di lettere.
+
+Nella vita quotidiana ci si saluta, si beve un caffè, si prende l'autobus e si racconta la giornata. Il pane, l'olio, la pasta e la frutta stanno sulla tavola. I bambini vanno a scuola. I mercati seguono le stagioni: arance, pomodori, castagne, minestre calde. In città si mescolano luci, voci e traffico. Qualcuno legge, qualcuno cammina, qualcuno scrive un messaggio.
+
+La scienza cerca di spiegare i fenomeni con attenzione. Un ricercatore osserva, formula un'ipotesi e prova a verificarla. La matematica parla di insiemi, funzioni e probabilità. L'informatica conserva dati, file e reti. Anche un paragrafo breve contiene catene tipiche: che, zio, per, gli, one. La doppia consonante e le desinenze in -zione aiutano a riconoscere l'italiano.
+
+Viaggiare rende questi schemi evidenti. In montagna l'aria è più fredda. Vicino al mare le onde tengono un ritmo costante. In città si chiede una direzione, si compra un biglietto, si ringrazia. Non serve un vocabolario raro: le parole di collegamento e le terminazioni bastano a lasciare una firma.
+
+La letteratura italiana usa frasi ampie, dialoghi e descrizioni. Un romanzo può raccontare un'infanzia, un'amicizia o un viaggio. Una poesia gioca con i suoni. Un articolo di giornale vuole informare con chiarezza. In tutti questi generi tornano gli stessi piccoli pezzi. Gli n-grammi di caratteri servono a contare quei pezzi e a confrontarli con il profilo di ogni lingua.

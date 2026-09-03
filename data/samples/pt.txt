@@ -1,0 +1,9 @@
+A língua portuguesa nasceu do latim falado na península ibérica e espalhou-se depois pelo Brasil e por outros países. Usa o alfabeto latino, com cedilha, til e acentos. Palavras muito frequentes como de, que, a, o, e, do, da, em, para, não aparecem sem parar. Terminações como -ção, -mente, -ado e o ditongo ão deixam marcas fortes nas sequências de letras.
+
+No dia a dia as pessoas cumprimentam-se, bebem café, apanham o autocarro ou o comboio e contam o que aconteceu. O pão, o queijo, a fruta e a sopa fazem parte da mesa. As crianças vão à escola. Os mercados seguem as estações: laranjas, tomates, castanhas, caldos quentes. Na cidade misturam-se luzes, conversas e trânsito. Alguém lê, alguém caminha, alguém escreve uma mensagem.
+
+A ciência tenta descrever o mundo com cuidado. Um investigador observa, formula uma hipótese e procura verificá-la. A matemática fala de conjuntos, funções e probabilidades. A informática guarda dados, ficheiros e redes. Um texto curto já contém cadeias típicas: que, ção, ade, ent, para. O til e a cedilha ajudam ainda mais a reconhecer o idioma.
+
+Viajar torna esses padrões visíveis. Na montanha o ar é mais frio. Junto ao mar as ondas mantêm um ritmo constante. Na cidade pede-se informação, compra-se um bilhete, agradece-se. Não é preciso vocabulário raro: as palavras de ligação e as terminações bastam para deixar uma assinatura.
+
+A literatura portuguesa e brasileira usa frases longas, diálogos e descrições. Um romance pode contar uma infância, uma amizade ou uma viagem. Um poema joga com os sons. Um artigo de jornal quer informar com clareza. Em todos esses géneros voltam as mesmas peças pequenas. Os n-gramas de caracteres servem precisamente para contar essas peças e compará-las com o perfil de cada língua.

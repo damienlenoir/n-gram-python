@@ -1,0 +1,9 @@
+El español nació del latín hablado en la península ibérica y se extendió después por América. Se escribe con un alfabeto latino, con eñe, tildes en las vocales y signos de apertura en las preguntas y las exclamaciones. Palabras muy frecuentes como de, la, que, el, en, y, a, los, se aparecen una y otra vez, y dejan huellas claras en las secuencias de letras.
+
+En la vida cotidiana la gente saluda, comparte una comida, habla del tiempo y cuenta lo que ha pasado durante el día. El pan, el aceite, el café y la fruta forman parte de la mesa. Los niños van a la escuela. Los trenes y los autobuses unen barrios y ciudades. Por la tarde alguien lee, alguien camina por la calle, alguien escucha música. Las estaciones marcan el mercado: naranjas, tomates, castañas, sopas calientes.
+
+La ciencia busca explicar fenómenos con cuidado. Un investigador observa, propone una hipótesis y trata de comprobarla. Las matemáticas hablan de conjuntos, funciones y probabilidades. La informática guarda datos, archivos y redes. Un texto breve ya contiene cadenas típicas: que, los, ción, dad, mente. La eñe y las combinaciones como ll o rr también ayudan a reconocer el idioma.
+
+Viajar permite comparar paisajes y costumbres. En la montaña el aire es más frío. Junto al mar las olas mantienen un ritmo constante. En la ciudad se mezclan luces, conversaciones y tráfico. Se pide información, se compra un billete, se da las gracias. No hace falta un vocabulario raro: las palabras de enlace y las terminaciones bastan para dejar una firma.
+
+La literatura española e hispanoamericana usa frases largas, diálogos y descripciones. Una novela puede contar una infancia, una amistad o un viaje. Un poema juega con el sonido. Un artículo de periódico intenta informar con claridad. En todos esos géneros vuelven las mismas piezas pequeñas. Los n-gramas de caracteres sirven precisamente para contar esas piezas y compararlas con el perfil de cada lengua.

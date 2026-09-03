@@ -1,0 +1,9 @@
+La langue française s'est formée à partir du latin parlé en Gaule. Au fil des siècles, elle a emprunté des mots germaniques, italiens et anglais, tout en gardant une grammaire assez régulière. On écrit de gauche à droite, avec des accents qui changent parfois le son d'une voyelle : é, è, ê, à, ù, ç.
+
+Dans la vie quotidienne, on se salue, on discute autour d'une table, on raconte sa journée. Le pain, le fromage, le vin et le café occupent une place familière. Les saisons rythment les marchés : fraises au printemps, tomates en été, châtaignes en automne, soupes en hiver. Les enfants vont à l'école, les trains relient les villes, et le soir on lit, on écoute la radio ou on marche dans la rue.
+
+La science et la technique ont aussi leur vocabulaire. On mesure, on compare, on explique un phénomène. Un chercheur observe, formule une hypothèse, puis tente de la vérifier. Les mathématiques parlent d'ensembles, de fonctions, de probabilités. L'informatique manipule des données, des fichiers, des réseaux. Même un texte court contient déjà des enchaînements de lettres typiques : « les », « des », « que », « tion », « ent ».
+
+Voyager permet de comparer les paysages et les habitudes. À la montagne, l'air est plus vif. Au bord de la mer, les vagues rendent un bruit régulier. En ville, les lumières, les autobus et les conversations se mêlent. On demande son chemin, on achète un billet, on remercie. Ces gestes simples laissent dans un texte des traces que l'on peut reconnaître sans comprendre chaque mot.
+
+Enfin, la littérature française aime les phrases qui s'allongent, les descriptions, les dialogues. Un roman peut raconter une enfance, une amitié, un voyage. Un poème joue avec les sonorités. Un article de journal cherche à informer clairement. Dans tous ces genres, les mêmes petites séquences reviennent : articles, prépositions, terminaisons. C'est précisément ce que les n-grammes de caractères permettent de capturer.

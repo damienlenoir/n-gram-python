@@ -1,0 +1,9 @@
+The English language grew from Germanic roots and later absorbed a large number of words from French and Latin. Spelling is often irregular, yet everyday speech relies on a small set of very frequent words: the, of, and, to, in, that, is, you. Those short words, together with endings such as -ing, -ed and -tion, leave a clear fingerprint in character sequences.
+
+Daily life is full of simple scenes. People drink coffee in the morning, take a bus or a train, send a message, and meet friends after work. Weather changes quickly: rain, wind, a pale sun, then clouds again. Children learn to read at school. Markets sell bread, fruit, cheese and vegetables. In the evening someone cooks, someone reads a book, someone walks the dog around the block.
+
+Science tries to describe the world with careful language. A researcher asks a question, gathers evidence, and tests an idea. Mathematics speaks of numbers, sets and probability. Computers store files, run programs and connect people across a network. Even a short paragraph already contains typical letter pairs: th, he, in, er, an, re. The sequence "the" is one of the strongest clues that a text is English.
+
+Travel makes those patterns travel with us. In the mountains the air feels colder. By the sea the waves keep a steady rhythm. In a city, lights, traffic and conversations mix together. You ask for directions, buy a ticket, say thank you. You do not need rare vocabulary to recognize the language: common glue words and letter chains are enough.
+
+Literature adds longer sentences, dialogue and description. A novel may follow a childhood, a friendship or a journey. A poem plays with sound. A news article aims to be clear. Across all of these styles, the same small pieces return again and again. Character n-grams are a way to count those pieces and compare them with known language profiles.

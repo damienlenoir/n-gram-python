@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Language Detector — N-grams</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <header class="hero">
+        <p class="eyebrow">Learn Python · FastAPI · N-grams</p>
+        <h1>What language is this?</h1>
+        <p class="lede">
+          An n-gram is a window of <em>n</em> characters sliding over the
+          text. We compare the frequencies of these windows to language
+          profiles learned from small corpora.
+        </p>
+      </header>
+
+      <section class="panel">
+        <label for="text">Text to analyze</label>
+        <textarea
+          id="text"
+          rows="8"
+          maxlength="10000"
+          placeholder="Type or paste some text…"
+        ></textarea>
+
+        <div class="controls">
+          <div class="n-control">
+            <label for="n">Size n = <strong id="n-value">3</strong></label>
+            <input id="n" type="range" min="1" max="5" value="3" />
+            <p class="hint" id="n-hint">Trigrams: sequences of 3 letters, often the best trade-off.</p>
+          </div>
+          <button id="detect" type="button">Detect language</button>
+        </div>
+
+        <p class="samples-label">Try an example</p>
+        <div class="samples" id="samples"></div>
+      </section>
+
+      <section class="panel" id="result" hidden>
+        <h2>Result</h2>
+        <p class="winner" id="winner"></p>
+        <div class="scores" id="scores"></div>
+
+        <h3>Most frequent n-grams in your text</h3>
+        <p class="hint">
+          The space is part of n-grams: it marks word boundaries
+          (shown here as <code>·</code>).
+        </p>
+        <ul class="ngrams" id="ngrams"></ul>
+      </section>
+
+      <p id="error" class="error" hidden></p>
+
+      <aside class="help">
+        <h2>How does it work?</h2>
+        <ol>
+          <li>Each language has a sample file in <code>data/samples/</code>.</li>
+          <li>We extract a <strong>profile</strong> from it: n-gram frequencies.</li>
+          <li>Your text produces the same kind of profile.</li>
+          <li>
+            We measure <strong>cosine similarity</strong> between frequency
+            vectors. The closest language wins.
+          </li>
+        </ol>
+        <p>
+          Try n=1 (simple letters) then n=3. Also change the text length:
+          too short, and the ranking becomes unstable.
+        </p>
+        <p>
+          Interactive FastAPI docs:
+          <a href="/docs">/docs</a>
+        </p>
+      </aside>
+    </main>
+    <script src="/static/app.js"></script>
+  </body>
+</html>
